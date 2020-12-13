@@ -2,6 +2,7 @@
 .project
 .gitattributes
 .idea/*
+.settings/*
 /target/*
 /bin/*
 /out/*
